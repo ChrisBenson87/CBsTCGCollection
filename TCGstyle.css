@@ -1,0 +1,52 @@
+*{
+    background-color: wheat;
+}
+
+.headingContainer {
+    display: flex;
+    position: relative;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    min-width: fit-content;
+    min-height: fit-content;
+    justify-content: center;
+}
+
+.h1Text {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    font-weight: Bold;
+    color: black;
+}
+
+.infoContainer {
+    display: flex;
+    position: relative;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    min-width: fit-content;
+    min-height: fit-content;
+    justify-content: center;
+}
+
+.pText {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    color: black;
+}
+
+.cardsContainer {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.cardShowcase {
+    display: flex;
+    position: relative;
+    justify-content: center;
+    min-height: 50%;
+    min-width: 50%;
+}
